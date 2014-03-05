@@ -1,0 +1,11 @@
+# Virtualenv
+bin/
+include/
+lib/
+.Python
+
+# intelliJ
+.idea/
+
+# Mac OS X
+.DS_Store

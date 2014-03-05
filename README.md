@@ -1,5 +1,4 @@
 # Morse Code Translator
----
 
 This is one of the first toys I made when I first started learning python.
 It's seen a number of revisions since then, but the basic idea remains the same.
@@ -16,8 +15,7 @@ To run the app:
 
 To run tests:
 
-    python tests/test_all.py
-    python test/test_*.py
+    python -m unittest discover
 
 Improvements to make in the future:
 

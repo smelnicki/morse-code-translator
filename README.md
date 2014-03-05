@@ -1,7 +1,7 @@
 # Morse Code Translator
 
-This is one of the first toys I made when I first started learning python.
-It's seen a number of revisions since then, but the basic idea remains the same.
+This is one of the first decent toys I've made after I first started learning python.
+It's seen a number of revisions from time to time, but the basic idea remains the same.
 
 Input a string of characters and gets back a sequence that spells it out in morse code.
 Accepted characters are "a-z", "A-Z", "0-9", and " ".
